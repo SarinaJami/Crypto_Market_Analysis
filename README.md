@@ -1,4 +1,4 @@
-# Stock-Market-Analysis
+# Crypto-Market-Analysis
 <h4>Performed time series analysis on USDT-IRT data from three different markets, i.e. Nobitex, Tabdeal, and Wallex.</h4>
 <h3>To Render File Click <a href="https://nbviewer.org/github/SarinaJami/Stock_Market_Analysis/blob/main/main.ipynb">Here</a></h3>
 <ul>
